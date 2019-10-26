@@ -1,0 +1,22 @@
+{
+  "name": "flapi",
+  "version": "1.0.0",
+  "description": "Comparing Flight APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtrippas/flapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtrippas/flapi/issues"
+  },
+  "homepage": "https://github.com/dtrippas/flapi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
